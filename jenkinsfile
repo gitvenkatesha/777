@@ -3,7 +3,7 @@ pipeline{
  stages{
     stage{
         step{
-            
+
         }
     }
      
@@ -11,4 +11,3 @@ pipeline{
     
  }        
     
-}
